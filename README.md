@@ -1,3 +1,5 @@
 # Array-object-
-Assume we have the below set of students : 
--> const students = [ { name: “Bob”, scores: [100,100,100]}, { name: “Boo”, scores: [90,85,77]}, { name: “Bae”, scores: [99,92,77]}, { name: “Tae”, scores: [77,65,44]}, { name: “Tou”, scores: [35,36,37]}, ];
+Task is to use map, filter and reduce to calculate the average of the
+scores for each student and then return an array of students whose average
+is above 85 like the below : 
+i.e {“Kislay”, Average: 100}
